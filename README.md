@@ -1,4 +1,4 @@
-# ow-team-tools
+# ow_team_tools
 Web app full of tools to help any Overwatch team get started
 
 ## Scrum Board
